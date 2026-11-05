@@ -43,7 +43,7 @@ const weddingConfig = {
   // RSVP form sends the guest's reply to this WhatsApp number.
   // Digits only with country code, e.g. "919876543210".
   // If left empty, the form button copies the reply instead of opening WhatsApp.
-  whatsappNumber: "919344325545",
+  whatsappNumber: "916379800325",
   // Optional, e.g. "9 November". Leave "" to skip the deadline sentence.
   rsvpDeadline: "",
 
